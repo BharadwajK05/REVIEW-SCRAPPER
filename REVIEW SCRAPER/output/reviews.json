@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Great product",
+        "review": "This is a fallback review used when scraping is blocked.",
+        "date": "2020-01-01",
+        "rating": 5,
+        "reviewer": "Sample User"
+    },
+    {
+        "title": "Good experience",
+        "review": "Trustpilot sometimes blocks bots, so fallback data is used.",
+        "date": "2024-01-01",
+        "rating": 4,
+        "reviewer": "Sample User"
+    }
+]
